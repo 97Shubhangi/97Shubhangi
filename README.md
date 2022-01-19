@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubhangi Chouksey
-- 👀 I’m interested in technical content writing, blogging, coding, and web development.
+- 👀 I’m interested in technical content writing, blogging, and Front-end web development.
 - 🌱 I’m currently learning data structure and algorithms.
 - 📫 You can reach out to me at https://www.linkedin.com/in/shubhangi-chouksey-940b501a6
 
